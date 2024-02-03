@@ -1,0 +1,72 @@
+body {
+  background: white;
+  font-family: "Century Gothic";
+  font-size: 20px;
+}
+
+h1,h2 {
+  color: orange;
+  text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+#logo h1 {
+  line-height: 100px auto;
+  width: 1000px auto;
+  font-size: 10.0em;
+  padding: 30px 30px;
+  font-stretch: ultra-condensed;
+  letter-spacing: -3px;
+  color: #2CA8FF;
+}
+
+h2 {
+  font-size: 5.0em;
+  overflow: hissen;
+  margin: 0px auto;
+  padding: 50px 50px;
+  color: white;
+}
+
+.sectionContent {
+  width: 1000px;
+  overflow: hidden;
+  margin: 0px auto;
+  padding: 30px 30px;
+  
+}
+
+.sectionContent p {
+  font-size: 26px;
+ text-align: justify;
+}
+
+#section1 {
+  background: #2d9a35;
+}
+
+#section2 {
+  background: white;
+}
+
+#section2 h2 {
+  color: #2CA8FF;
+}
+
+#section3 {
+  background: #FF4FFa ;
+}
+
+#section4 {
+  background: white;
+}
+
+#section4 h2 {
+  color:#2CA8FF;
+}
+
+#section5 {
+  background: #2CA8FF ;
+}
