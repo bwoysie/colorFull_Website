@@ -39,8 +39,9 @@ h2 {
 }
 
 .sectionContent p {
-  font-size: 26px;
+  font-size: 33px;
  text-align: justify;
+ color: #333333;
 }
 
 #section1 {
@@ -69,4 +70,28 @@ h2 {
 
 #section5 {
   background: #2CA8FF ;
+}
+
+#orange {
+color: #FF8900;
+}
+
+#pink {
+  color: #FF2AF9;
+}
+
+#green {
+  color: #439b1b;
+}
+
+#red {
+  color: #ff0011;
+}
+
+#yellow {
+  color: #f4e809;
+}
+
+#blue {
+  color:  #0f0783;
 }
